@@ -1,4 +1,4 @@
-<h1 align="center">Привет, Мы <a href="https://github.com/Fezwer/2computers" target="_blank">CuteCats Team!</a>
+<h1 align="center">Привет, Я <a href="https://github.com/Fezwer/2computers" target="_blank">Студент!</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Вы очень любите котиков? Тогда это приложение для вас!</h3>
 <br>
